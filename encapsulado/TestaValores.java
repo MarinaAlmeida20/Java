@@ -1,4 +1,4 @@
-package encapsulado;
+package Java_First.Java.encapsulado;
 
 public class TestaValores {
 
@@ -7,8 +7,8 @@ public class TestaValores {
 
         System.out.println(conta.getAgencia());
 
-        Conta conta2 = new Conta(1334, 12345);
-        Conta conta3 = new Conta(4555, 12334);
+        //Conta conta2 = new Conta(1334, 12345);
+        //Conta conta3 = new Conta(4555, 12334);
 
         System.out.println(Conta.getTotal());
 

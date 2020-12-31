@@ -1,4 +1,4 @@
-package encapsulado;
+package Java_First.Java.encapsulado;
 
 public class Conta {
     private double saldo;

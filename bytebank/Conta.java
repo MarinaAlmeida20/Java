@@ -1,4 +1,4 @@
-package bytebank;
+package Java_First.Java.bytebank;
 
 public class Conta {
     double saldo;
